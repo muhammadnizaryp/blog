@@ -25,7 +25,7 @@ SECRET_KEY = 'o)2eajludacf1jao3)voon2$@3_a5kx==8=7c#l6=l&!*96geb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'yogablog.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'yblog.pythonanywhere.com']
 
 # Application definition
 
